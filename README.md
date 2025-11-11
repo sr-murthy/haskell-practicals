@@ -1,9 +1,9 @@
 Haskell Practicals
 ==================
 
-Solutions to practical exercises in Haskell for the Functional Programming (FPR) course at the University of Oxford, Dept. of Computer Science (2014/15).
+Solutions to practical exercises in Haskell for the Functional Programming (FPR) course at the University of Oxford, Dept. of Computer Science (spring 2015).
 
-Topics covered by the practical included:
+Topics covered by the practicals included:
 
 * language basics
 * operators
